@@ -1,3 +1,0 @@
-Regular expressions(master|develop|release.*|feature.*|bugfix.*)
-include dev* feature*
-Exclude test*
